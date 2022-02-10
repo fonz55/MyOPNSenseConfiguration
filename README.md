@@ -4,7 +4,7 @@ This is the configuration for filtering packets from and to the Internet. It als
 
 What's already achieved:
 
-- [x] Internet connection through a Vigor 120 in bridge mode
+- [x] Internet connection through a Vigor 130 in bridge mode
 - [x] Configure Proxmox with two virtual NIC's
 - [x] Install and basic setup for virtual OPNSense
 - [x] Watching TV with the STB being on the same local LAN. This had some lag while zapping to other channels. Therefor I am trying to implement a separate VLAN.
